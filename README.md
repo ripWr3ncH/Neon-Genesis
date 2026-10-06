@@ -8,7 +8,7 @@
 
 [**Watch the demo →**](https://youtu.be/xAqpQe7Q-IM) &nbsp;·&nbsp; [**Read the report →**](report/Neon_Genesis_Report.pdf) &nbsp;·&nbsp; [Run it locally](#-build-and-run)
 
-<a href="VIDEO_LINK_HERE">
+<a href="https://youtu.be/xAqpQe7Q-IM">
   <img src="assets/readme/demo_thumbnail.jpg" width="100%" alt="Neon Genesis demo video — click to play">
 </a>
 
