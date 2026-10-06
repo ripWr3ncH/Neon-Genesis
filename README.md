@@ -6,7 +6,7 @@
 
 **A procedurally generated, real-time cyberpunk city with ray-traced shadows — built from scratch in OpenGL 3.3.**
 
-[**Watch the demo →**](VIDEO_LINK_HERE) &nbsp;·&nbsp; [**Read the report →**](report/Neon_Genesis_Report.pdf) &nbsp;·&nbsp; [Run it locally](#-build-and-run)
+[**Watch the demo →**](https://youtu.be/xAqpQe7Q-IM) &nbsp;·&nbsp; [**Read the report →**](report/Neon_Genesis_Report.pdf) &nbsp;·&nbsp; [Run it locally](#-build-and-run)
 
 <a href="VIDEO_LINK_HERE">
   <img src="assets/readme/demo_thumbnail.jpg" width="100%" alt="Neon Genesis demo video — click to play">
