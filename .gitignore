@@ -1,0 +1,32 @@
+# build output
+neon.exe
+*.exe
+*.o
+build/
+
+# screenshots taken with F12 / --shot
+*.bmp
+
+# large or copyrighted media (the demo video is linked from the README)
+*.mp4
+assets/music/
+
+# reference material and other people's work
+reference_img/
+report/AquriumTunnel/
+report/presentation-slide/
+
+# report build leftovers (keep only the final report PDF)
+*.zip
+report/neon_genesis_overleaf__*.pdf
+
+# editor / Office temp files
+.vscode/
+~$*
+
+# misc
+*.txt
+!requirements.txt
+
+# backups
+*.bak
